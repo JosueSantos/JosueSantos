@@ -1,5 +1,3 @@
-### Hi 👋
-
 <div>
   <a href="https://www.instagram.com/josuemarques3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josuemarques3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,7 +10,7 @@
 * [Linha do Tempo](https://josuesantos.github.io/linha/)
 
 
-## Trabalhos Pessoais
+## Projetos Pessoais
 
 * [/JK](https://josuesantos.github.io/JK/)
 História da coruja e da girafa, slide de imagens estilo papel
@@ -54,11 +52,13 @@ CraftMaker - JS - Projeto Integrado 2
 Saviors Of Fate - GameMaker - Projeto Integrado 1
 * [/mami](https://josuesantos.github.io/mami/)
 MAMI - Matemática Aplicada a Multimídias I
-** [Breakout - Jogo](https://josuesantos.github.io/mami/ativ10.html)
-** [Game This Game - Jogo](https://josuesantos.github.io/mami/trab04.html)
+* [Breakout - Jogo](https://josuesantos.github.io/mami/ativ10.html)
+Jogo ATARI
+* [Game This Game - Jogo](https://josuesantos.github.io/mami/trab04.html)
+Jogo ATARI
 
 
-## Outros Trabalhos
+## Outros Projetos
 
 * [Spider Web](https://github.com/JosueSantos/spiderwebsam)
 Raspador Web em python que captura Jogos de Futebol, Programação da Rede Globo ou Matérias do Diário do Nordeste
