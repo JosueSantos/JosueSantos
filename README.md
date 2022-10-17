@@ -32,20 +32,16 @@ Minha linha do tempo
 Emulador JavaScript de um Jogo antigo "Congo's Caper"
 * [/fantasmito.html](https://josuesantos.github.io/fantasmito.html)
 Jogo em Scratch
-* [/map.html](https://josuesantos.github.io/map.html)
-Mapa das Eleições presidenciais de 2022 no 1º turno
 * [API Liturgia Diária](https://api-liturgia-diaria.vercel.app/)
 Raspagem e disponibilização via API das leituras bíblicas
 * [Nuvem de Palavras](https://nuvem-de-palavras.herokuapp.com/)
 Gerador de Nuvem de palavras
-* [Avaliador de Filmes](https://josue-santos-dsmovie.netlify.app/)
-Catálogo e avaliação de filmes
-* [Projeto de Ciência de Dados](https://github.com/atlantico-academy/analysus)
-Analise dos Dados do SUS
 
 
 ## Trabalhos da UFC
 
+* [TCC](https://repositorio.ufc.br/handle/riufc/68395)
+Análise de sentimentos utilizando uma base de treinamento limitada
 * [CraftMaker](https://craftmaker.vercel.app/)
 CraftMaker - JS - Projeto Integrado 2
 * [/SOF](https://josuesantos.github.io/SOF/)
@@ -60,5 +56,16 @@ Jogo ATARI
 
 ## Outros Projetos
 
+* [Projeto de Ciência de Dados](https://github.com/atlantico-academy/analysus)
+Analise dos Dados do SUS
+* [Desenvolvimento de Métricas](https://www.anj.org.br/diario-do-nordeste-desenvolve-ferramenta-que-avalia-impacto-e-qualidade-de-conteudo-para-leitores/)
+Um método para a medição da qualidade de textos jornalísticos
 * [Spider Web](https://github.com/JosueSantos/spiderwebsam)
 Raspador Web em python que captura Jogos de Futebol, Programação da Rede Globo ou Matérias do Diário do Nordeste
+* [Mapa Flourish](https://public.flourish.studio/visualisation/4379320/)
+Comparação por bairro das eleições municipais de Fortaleza - 1º Turno 2016/2020
+* [/map.html](https://josuesantos.github.io/map.html)
+Mapa das Eleições presidenciais de 2022 no 1º turno
+* [Avaliador de Filmes](https://josue-santos-dsmovie.netlify.app/)
+Catálogo e avaliação de filmes
+
