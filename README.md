@@ -59,6 +59,7 @@ Jogo ATARI
 Jogo ATARI
 
 
+## Outros Trabalhos
 
 * [Projeto de Ciência de Dados](https://github.com/atlantico-academy/analysus)
 Analise dos Dados do SUS
