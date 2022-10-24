@@ -10,7 +10,7 @@
 * [Linha do Tempo](https://josuesantos.github.io/linha/)
 
 
-## Projetos Pessoais
+## Trabalhos Pessoais
 
 * [/JK](https://josuesantos.github.io/JK/)
 História da coruja e da girafa, slide de imagens estilo papel
@@ -32,10 +32,15 @@ Minha linha do tempo
 Emulador JavaScript de um Jogo antigo "Congo's Caper"
 * [/fantasmito.html](https://josuesantos.github.io/fantasmito.html)
 Jogo em Scratch
+
 * [API Liturgia Diária](https://api-liturgia-diaria.vercel.app/)
 Raspagem e disponibilização via API das leituras bíblicas
 * [Nuvem de Palavras](https://nuvem-de-palavras.herokuapp.com/)
 Gerador de Nuvem de palavras
+* [Avaliador de Filmes](https://josue-santos-dsmovie.netlify.app/)
+Catálogo e avaliação de filmes
+* [Projeto de Ciência de Dados](https://github.com/atlantico-academy/analysus)
+Analise dos Dados do SUS
 
 
 ## Trabalhos da UFC
@@ -54,7 +59,6 @@ Jogo ATARI
 Jogo ATARI
 
 
-## Outros Projetos
 
 * [Projeto de Ciência de Dados](https://github.com/atlantico-academy/analysus)
 Analise dos Dados do SUS
@@ -64,8 +68,12 @@ Um método para a medição da qualidade de textos jornalísticos
 Raspador Web em python que captura Jogos de Futebol, Programação da Rede Globo ou Matérias do Diário do Nordeste
 * [Mapa Flourish](https://public.flourish.studio/visualisation/4379320/)
 Comparação por bairro das eleições municipais de Fortaleza - 1º Turno 2016/2020
-* [/map.html](https://josuesantos.github.io/map.html)
-Mapa das Eleições presidenciais de 2022 no 1º turno
+* [Mapa por Região das Eleições 2022](https://josuesantos.github.io/map1turno.html)
+Mapa das Eleições presidenciais de 2022 no 1º turno em tempo real
+* [Mapa por Região das Eleições 2022 - 2º turno](https://josuesantos.github.io/map2turno.html)
+Mapa das Eleições presidenciais de 2022 no 2º turno em tempo real
 * [Avaliador de Filmes](https://josue-santos-dsmovie.netlify.app/)
 Catálogo e avaliação de filmes
+* [Serviços Python](https://js-py-service.streamlitapp.com/)
+Download de Imagens via arquivo CSV
 
