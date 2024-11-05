@@ -8,6 +8,7 @@
 
 [Currículo Online](https://josuesantos.github.io/)
 * [Linha do Tempo](https://josuesantos.github.io/linha/)
+* [Wordpress](https://josuesantos03.wordpress.com/)
 
 
 ## Trabalhos Pessoais
